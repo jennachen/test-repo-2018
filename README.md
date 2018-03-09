@@ -12,9 +12,4 @@ Try issuing a pull request to this repository:
 added to readme, Alec
 Roy Nunez 2
 
-<<<<<<< HEAD
->>>>>>> upstream/master
-=======
 added to readme, Xu Ren
-
->>>>>>> upstream/master
